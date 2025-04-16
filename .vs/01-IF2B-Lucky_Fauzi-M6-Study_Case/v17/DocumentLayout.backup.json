@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\Save\\Collage\\Desktop Programming\\desktop-programming\\01-IF2B-Lucky_Fauzi-M6-Study_Case\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9301E6-0746-4A8C-8C50-7EF6CB1AED1A}|01-IF2B-Lucky_Fauzi-M6-Study_Case\\01-IF2B-Lucky_Fauzi-M6-Study_Case.vbproj|d:\\programming\\save\\collage\\desktop programming\\desktop-programming\\01-if2b-lucky_fauzi-m6-study_case\\01-if2b-lucky_fauzi-m6-study_case\\trackerexpense.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7C9301E6-0746-4A8C-8C50-7EF6CB1AED1A}|01-IF2B-Lucky_Fauzi-M6-Study_Case\\01-IF2B-Lucky_Fauzi-M6-Study_Case.vbproj|solutionrelative:01-if2b-lucky_fauzi-m6-study_case\\trackerexpense.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9301E6-0746-4A8C-8C50-7EF6CB1AED1A}|01-IF2B-Lucky_Fauzi-M6-Study_Case\\01-IF2B-Lucky_Fauzi-M6-Study_Case.vbproj|d:\\programming\\save\\collage\\desktop programming\\desktop-programming\\01-if2b-lucky_fauzi-m6-study_case\\01-if2b-lucky_fauzi-m6-study_case\\trackerexpense.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{7C9301E6-0746-4A8C-8C50-7EF6CB1AED1A}|01-IF2B-Lucky_Fauzi-M6-Study_Case\\01-IF2B-Lucky_Fauzi-M6-Study_Case.vbproj|solutionrelative:01-if2b-lucky_fauzi-m6-study_case\\trackerexpense.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9301E6-0746-4A8C-8C50-7EF6CB1AED1A}|01-IF2B-Lucky_Fauzi-M6-Study_Case\\01-IF2B-Lucky_Fauzi-M6-Study_Case.vbproj|d:\\programming\\save\\collage\\desktop programming\\desktop-programming\\01-if2b-lucky_fauzi-m6-study_case\\01-if2b-lucky_fauzi-m6-study_case\\trackerexpense.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7C9301E6-0746-4A8C-8C50-7EF6CB1AED1A}|01-IF2B-Lucky_Fauzi-M6-Study_Case\\01-IF2B-Lucky_Fauzi-M6-Study_Case.vbproj|solutionrelative:01-if2b-lucky_fauzi-m6-study_case\\trackerexpense.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9301E6-0746-4A8C-8C50-7EF6CB1AED1A}|01-IF2B-Lucky_Fauzi-M6-Study_Case\\01-IF2B-Lucky_Fauzi-M6-Study_Case.vbproj|d:\\programming\\save\\collage\\desktop programming\\desktop-programming\\01-if2b-lucky_fauzi-m6-study_case\\01-if2b-lucky_fauzi-m6-study_case\\trackerexpense.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{7C9301E6-0746-4A8C-8C50-7EF6CB1AED1A}|01-IF2B-Lucky_Fauzi-M6-Study_Case\\01-IF2B-Lucky_Fauzi-M6-Study_Case.vbproj|solutionrelative:01-if2b-lucky_fauzi-m6-study_case\\trackerexpense.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Programming\\Save\\Collage\\Desktop Programming\\desktop-programming\\01-IF2B-Lucky_Fauzi-M6-Study_Case\\01-IF2B-Lucky_Fauzi-M6-Study_Case\\Form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:01-IF2B-Lucky_Fauzi-M6-Study_Case\\Form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "trackerExpense.vb [Design]",
+              "DocumentMoniker": "D:\\Programming\\Save\\Collage\\Desktop Programming\\desktop-programming\\01-IF2B-Lucky_Fauzi-M6-Study_Case\\01-IF2B-Lucky_Fauzi-M6-Study_Case\\trackerExpense.vb",
+              "RelativeDocumentMoniker": "01-IF2B-Lucky_Fauzi-M6-Study_Case\\trackerExpense.vb",
+              "ToolTip": "D:\\Programming\\Save\\Collage\\Desktop Programming\\desktop-programming\\01-IF2B-Lucky_Fauzi-M6-Study_Case\\01-IF2B-Lucky_Fauzi-M6-Study_Case\\trackerExpense.vb [Design]",
+              "RelativeToolTip": "01-IF2B-Lucky_Fauzi-M6-Study_Case\\trackerExpense.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-15T09:12:38.343Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "trackerExpense.vb",
+              "DocumentMoniker": "D:\\Programming\\Save\\Collage\\Desktop Programming\\desktop-programming\\01-IF2B-Lucky_Fauzi-M6-Study_Case\\01-IF2B-Lucky_Fauzi-M6-Study_Case\\trackerExpense.vb",
+              "RelativeDocumentMoniker": "01-IF2B-Lucky_Fauzi-M6-Study_Case\\trackerExpense.vb",
+              "ToolTip": "D:\\Programming\\Save\\Collage\\Desktop Programming\\desktop-programming\\01-IF2B-Lucky_Fauzi-M6-Study_Case\\01-IF2B-Lucky_Fauzi-M6-Study_Case\\trackerExpense.vb",
+              "RelativeToolTip": "01-IF2B-Lucky_Fauzi-M6-Study_Case\\trackerExpense.vb",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwEAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-15T06:45:27.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "trackerExpense.Designer.vb",
+              "DocumentMoniker": "D:\\Programming\\Save\\Collage\\Desktop Programming\\desktop-programming\\01-IF2B-Lucky_Fauzi-M6-Study_Case\\01-IF2B-Lucky_Fauzi-M6-Study_Case\\trackerExpense.Designer.vb",
+              "RelativeDocumentMoniker": "01-IF2B-Lucky_Fauzi-M6-Study_Case\\trackerExpense.Designer.vb",
+              "ToolTip": "D:\\Programming\\Save\\Collage\\Desktop Programming\\desktop-programming\\01-IF2B-Lucky_Fauzi-M6-Study_Case\\01-IF2B-Lucky_Fauzi-M6-Study_Case\\trackerExpense.Designer.vb",
+              "RelativeToolTip": "01-IF2B-Lucky_Fauzi-M6-Study_Case\\trackerExpense.Designer.vb",
+              "ViewState": "AgIAABABAAAAAAAAAAAowB4BAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-15T06:40:34.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "trackerExpense.resx",
+              "DocumentMoniker": "D:\\Programming\\Save\\Collage\\Desktop Programming\\desktop-programming\\01-IF2B-Lucky_Fauzi-M6-Study_Case\\01-IF2B-Lucky_Fauzi-M6-Study_Case\\trackerExpense.resx",
+              "RelativeDocumentMoniker": "01-IF2B-Lucky_Fauzi-M6-Study_Case\\trackerExpense.resx",
+              "ToolTip": "D:\\Programming\\Save\\Collage\\Desktop Programming\\desktop-programming\\01-IF2B-Lucky_Fauzi-M6-Study_Case\\01-IF2B-Lucky_Fauzi-M6-Study_Case\\trackerExpense.resx",
+              "RelativeToolTip": "01-IF2B-Lucky_Fauzi-M6-Study_Case\\trackerExpense.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-04-15T06:40:33.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\Programming\\Save\\Collage\\Desktop Programming\\desktop-programming\\01-IF2B-Lucky_Fauzi-M6-Study_Case\\01-IF2B-Lucky_Fauzi-M6-Study_Case\\Form1.vb",
+              "RelativeDocumentMoniker": "01-IF2B-Lucky_Fauzi-M6-Study_Case\\Form1.vb",
+              "ToolTip": "D:\\Programming\\Save\\Collage\\Desktop Programming\\desktop-programming\\01-IF2B-Lucky_Fauzi-M6-Study_Case\\01-IF2B-Lucky_Fauzi-M6-Study_Case\\Form1.vb [Design]",
+              "RelativeToolTip": "01-IF2B-Lucky_Fauzi-M6-Study_Case\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-15T06:23:18.086Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

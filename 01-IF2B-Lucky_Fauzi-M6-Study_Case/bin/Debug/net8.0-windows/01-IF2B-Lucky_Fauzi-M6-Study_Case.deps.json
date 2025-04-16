@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "01-IF2B-Lucky_Fauzi-M6-Study_Case/1.0.0": {
+        "runtime": {
+          "01-IF2B-Lucky_Fauzi-M6-Study_Case.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "01-IF2B-Lucky_Fauzi-M6-Study_Case/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
