@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("01-IF2B-Lucky_Fauzi-M6-Study_Case"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+242ac2704d05a9671ad620e4abe6870c6a2bc839"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9094301cb48cd2a2861b121198d836d81f89668b"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("01-IF2B-Lucky_Fauzi-M6-Study_Case"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("01-IF2B-Lucky_Fauzi-M6-Study_Case"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

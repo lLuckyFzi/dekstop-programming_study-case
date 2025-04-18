@@ -37,7 +37,7 @@
         For Each tr In transactionList
             Dim item As New ListViewItem(tr.TransactionDate.ToShortDateString)
             item.SubItems.Add(tr.Type)
-            item.SubItems.Add(tr.Total)
+            item.SubItems.Add(tr.Total.ToString("N0"))
             item.SubItems.Add(tr.Description)
             listData.Items.Add(item)
         Next
@@ -45,16 +45,18 @@
 
     Public Sub balanceCount()
 
-        Dim balance As Integer = 0
+        Dim balance As Decimal = 0
+        Dim expense As Decimal = 0
 
         For Each tr In transactionList
             If tr.Type = "Pemasukan" Then
                 balance += tr.Total
             Else
-                balance -= tr.Total
+                expense += tr.Total
             End If
         Next
-        lblBalance.Text = balance.ToString("N0")
+        lblBalance.Text = "Rp. " & balance.ToString("N0")
+        lblExpense.Text = "Rp. " & expense.ToString("N0")
     End Sub
 
     Public Sub ResetForm()
